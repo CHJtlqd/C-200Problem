@@ -1,0 +1,6 @@
+C:\Users\choi\source\repos\20200719_CSharpStudy\1-03\bin\Debug\1-03.exe.config
+C:\Users\choi\source\repos\20200719_CSharpStudy\1-03\bin\Debug\1-03.exe
+C:\Users\choi\source\repos\20200719_CSharpStudy\1-03\bin\Debug\1-03.pdb
+C:\Users\choi\source\repos\20200719_CSharpStudy\1-03\obj\Debug\1-03.csproj.CoreCompileInputs.cache
+C:\Users\choi\source\repos\20200719_CSharpStudy\1-03\obj\Debug\1-03.exe
+C:\Users\choi\source\repos\20200719_CSharpStudy\1-03\obj\Debug\1-03.pdb

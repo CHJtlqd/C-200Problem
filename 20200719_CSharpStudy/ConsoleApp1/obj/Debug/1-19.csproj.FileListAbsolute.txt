@@ -1,0 +1,7 @@
+C:\Users\choi\source\repos\20200719_CSharpStudy\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\choi\source\repos\20200719_CSharpStudy\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\choi\source\repos\20200719_CSharpStudy\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\choi\source\repos\20200719_CSharpStudy\ConsoleApp1\obj\Debug\1-19.csprojAssemblyReference.cache
+C:\Users\choi\source\repos\20200719_CSharpStudy\ConsoleApp1\obj\Debug\1-19.csproj.CoreCompileInputs.cache
+C:\Users\choi\source\repos\20200719_CSharpStudy\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\choi\source\repos\20200719_CSharpStudy\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
