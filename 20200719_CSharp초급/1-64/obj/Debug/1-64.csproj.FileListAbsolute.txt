@@ -1,0 +1,6 @@
+C:\SRC\C#200\20200719_CSharp초급\1-64\bin\Debug\1-64.exe.config
+C:\SRC\C#200\20200719_CSharp초급\1-64\bin\Debug\1-64.exe
+C:\SRC\C#200\20200719_CSharp초급\1-64\bin\Debug\1-64.pdb
+C:\SRC\C#200\20200719_CSharp초급\1-64\obj\Debug\1-64.csproj.CoreCompileInputs.cache
+C:\SRC\C#200\20200719_CSharp초급\1-64\obj\Debug\1-64.exe
+C:\SRC\C#200\20200719_CSharp초급\1-64\obj\Debug\1-64.pdb

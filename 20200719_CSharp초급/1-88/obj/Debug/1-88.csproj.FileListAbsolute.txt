@@ -1,0 +1,7 @@
+C:\SRC\C#200\20200719_CSharp초급\1-88\bin\Debug\1-88.exe.config
+C:\SRC\C#200\20200719_CSharp초급\1-88\bin\Debug\1-88.exe
+C:\SRC\C#200\20200719_CSharp초급\1-88\bin\Debug\1-88.pdb
+C:\SRC\C#200\20200719_CSharp초급\1-88\obj\Debug\1-88.csprojAssemblyReference.cache
+C:\SRC\C#200\20200719_CSharp초급\1-88\obj\Debug\1-88.csproj.CoreCompileInputs.cache
+C:\SRC\C#200\20200719_CSharp초급\1-88\obj\Debug\1-88.exe
+C:\SRC\C#200\20200719_CSharp초급\1-88\obj\Debug\1-88.pdb
