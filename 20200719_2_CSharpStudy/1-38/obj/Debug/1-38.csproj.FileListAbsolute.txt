@@ -1,0 +1,7 @@
+C:\SRC\C#200\20200719_2_CSharpStudy\1-38\bin\Debug\1-38.exe.config
+C:\SRC\C#200\20200719_2_CSharpStudy\1-38\bin\Debug\1-38.exe
+C:\SRC\C#200\20200719_2_CSharpStudy\1-38\bin\Debug\1-38.pdb
+C:\SRC\C#200\20200719_2_CSharpStudy\1-38\obj\Debug\1-38.csprojAssemblyReference.cache
+C:\SRC\C#200\20200719_2_CSharpStudy\1-38\obj\Debug\1-38.csproj.CoreCompileInputs.cache
+C:\SRC\C#200\20200719_2_CSharpStudy\1-38\obj\Debug\1-38.exe
+C:\SRC\C#200\20200719_2_CSharpStudy\1-38\obj\Debug\1-38.pdb

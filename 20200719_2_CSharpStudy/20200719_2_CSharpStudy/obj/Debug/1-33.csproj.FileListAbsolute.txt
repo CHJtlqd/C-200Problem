@@ -1,0 +1,7 @@
+C:\SRC\C#200\20200719_2_CSharpStudy\20200719_2_CSharpStudy\bin\Debug\20200719_2_CSharpStudy.exe.config
+C:\SRC\C#200\20200719_2_CSharpStudy\20200719_2_CSharpStudy\bin\Debug\20200719_2_CSharpStudy.exe
+C:\SRC\C#200\20200719_2_CSharpStudy\20200719_2_CSharpStudy\bin\Debug\20200719_2_CSharpStudy.pdb
+C:\SRC\C#200\20200719_2_CSharpStudy\20200719_2_CSharpStudy\obj\Debug\1-33.csprojAssemblyReference.cache
+C:\SRC\C#200\20200719_2_CSharpStudy\20200719_2_CSharpStudy\obj\Debug\1-33.csproj.CoreCompileInputs.cache
+C:\SRC\C#200\20200719_2_CSharpStudy\20200719_2_CSharpStudy\obj\Debug\20200719_2_CSharpStudy.exe
+C:\SRC\C#200\20200719_2_CSharpStudy\20200719_2_CSharpStudy\obj\Debug\20200719_2_CSharpStudy.pdb
