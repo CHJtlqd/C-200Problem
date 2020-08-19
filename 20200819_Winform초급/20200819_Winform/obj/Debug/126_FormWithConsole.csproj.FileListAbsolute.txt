@@ -1,0 +1,7 @@
+C:\SRC\c#200\C-200Problem\20200819_Winform\bin\Debug\20200819_Winform.exe.config
+C:\SRC\c#200\C-200Problem\20200819_Winform\bin\Debug\20200819_Winform.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform\bin\Debug\20200819_Winform.pdb
+C:\SRC\c#200\C-200Problem\20200819_Winform\obj\Debug\126_FormWithConsole.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform\obj\Debug\126_FormWithConsole.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform\obj\Debug\20200819_Winform.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform\obj\Debug\20200819_Winform.pdb

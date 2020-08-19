@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\bin\Debug\131_BasicControls.exe.config
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\bin\Debug\131_BasicControls.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\bin\Debug\131_BasicControls.pdb
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\obj\Debug\131_BasicControls.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\obj\Debug\_131_BasicControls.Form1.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\obj\Debug\_131_BasicControls.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\obj\Debug\131_BasicControls.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\obj\Debug\131_BasicControls.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\obj\Debug\131_BasicControls.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\131_BasicControls\obj\Debug\131_BasicControls.pdb

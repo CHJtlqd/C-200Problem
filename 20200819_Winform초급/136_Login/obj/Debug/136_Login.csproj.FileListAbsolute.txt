@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\bin\Debug\136_Login.exe.config
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\bin\Debug\136_Login.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\bin\Debug\136_Login.pdb
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\obj\Debug\136_Login.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\obj\Debug\_136_Login.Form1.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\obj\Debug\_136_Login.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\obj\Debug\136_Login.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\obj\Debug\136_Login.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\obj\Debug\136_Login.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\136_Login\obj\Debug\136_Login.pdb

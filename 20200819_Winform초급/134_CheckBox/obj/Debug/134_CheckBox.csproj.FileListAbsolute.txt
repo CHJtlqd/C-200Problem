@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\bin\Debug\134_CheckBox.exe.config
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\bin\Debug\134_CheckBox.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\bin\Debug\134_CheckBox.pdb
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\obj\Debug\134_CheckBox.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\obj\Debug\_134_CheckBox.Form1.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\obj\Debug\_134_CheckBox.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\obj\Debug\134_CheckBox.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\obj\Debug\134_CheckBox.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\obj\Debug\134_CheckBox.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\134_CheckBox\obj\Debug\134_CheckBox.pdb

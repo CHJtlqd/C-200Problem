@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\130_MessageBox\bin\Debug\130_MessageBox.exe.config
+C:\SRC\c#200\C-200Problem\130_MessageBox\bin\Debug\130_MessageBox.exe
+C:\SRC\c#200\C-200Problem\130_MessageBox\bin\Debug\130_MessageBox.pdb
+C:\SRC\c#200\C-200Problem\130_MessageBox\obj\Debug\130_MessageBox.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\130_MessageBox\obj\Debug\_130_MessageBox.Form1.resources
+C:\SRC\c#200\C-200Problem\130_MessageBox\obj\Debug\_130_MessageBox.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\130_MessageBox\obj\Debug\130_MessageBox.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\130_MessageBox\obj\Debug\130_MessageBox.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\130_MessageBox\obj\Debug\130_MessageBox.exe
+C:\SRC\c#200\C-200Problem\130_MessageBox\obj\Debug\130_MessageBox.pdb

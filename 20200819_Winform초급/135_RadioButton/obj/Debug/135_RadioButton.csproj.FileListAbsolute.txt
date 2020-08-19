@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\bin\Debug\135_RadioButton.exe.config
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\bin\Debug\135_RadioButton.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\bin\Debug\135_RadioButton.pdb
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\obj\Debug\135_RadioButton.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\obj\Debug\_135_RadioButton.Form1.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\obj\Debug\_135_RadioButton.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\obj\Debug\135_RadioButton.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\obj\Debug\135_RadioButton.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\obj\Debug\135_RadioButton.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\135_RadioButton\obj\Debug\135_RadioButton.pdb

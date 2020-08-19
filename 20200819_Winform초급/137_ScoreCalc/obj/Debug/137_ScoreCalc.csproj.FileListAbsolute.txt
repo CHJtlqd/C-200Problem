@@ -1,0 +1,9 @@
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\bin\Debug\137_ScoreCalc.exe.config
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\bin\Debug\137_ScoreCalc.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\bin\Debug\137_ScoreCalc.pdb
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\obj\Debug\_137_ScoreCalc.Form1.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\obj\Debug\_137_ScoreCalc.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\obj\Debug\137_ScoreCalc.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\obj\Debug\137_ScoreCalc.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\obj\Debug\137_ScoreCalc.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\137_ScoreCalc\obj\Debug\137_ScoreCalc.pdb

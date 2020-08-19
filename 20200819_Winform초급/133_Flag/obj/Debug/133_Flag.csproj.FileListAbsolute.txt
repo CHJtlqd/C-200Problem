@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\bin\Debug\133_Flag.exe.config
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\bin\Debug\133_Flag.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\bin\Debug\133_Flag.pdb
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\obj\Debug\133_Flag.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\obj\Debug\_133_Flag.Form1.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\obj\Debug\_133_Flag.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\obj\Debug\133_Flag.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\obj\Debug\133_Flag.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\obj\Debug\133_Flag.exe
+C:\SRC\c#200\C-200Problem\20200819_Winform초급\133_Flag\obj\Debug\133_Flag.pdb

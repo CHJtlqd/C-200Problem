@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\129_FormClass\bin\Debug\129_FormClass.exe.config
+C:\SRC\c#200\C-200Problem\129_FormClass\bin\Debug\129_FormClass.exe
+C:\SRC\c#200\C-200Problem\129_FormClass\bin\Debug\129_FormClass.pdb
+C:\SRC\c#200\C-200Problem\129_FormClass\obj\Debug\129_FormClass.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\129_FormClass\obj\Debug\_129_FormClass.Form2.resources
+C:\SRC\c#200\C-200Problem\129_FormClass\obj\Debug\_129_FormClass.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\129_FormClass\obj\Debug\129_FormClass.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\129_FormClass\obj\Debug\129_FormClass.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\129_FormClass\obj\Debug\129_FormClass.exe
+C:\SRC\c#200\C-200Problem\129_FormClass\obj\Debug\129_FormClass.pdb
