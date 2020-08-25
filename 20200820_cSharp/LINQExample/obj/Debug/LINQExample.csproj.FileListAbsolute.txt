@@ -1,0 +1,7 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\LINQExample\bin\Debug\LINQExample.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\LINQExample\bin\Debug\LINQExample.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\LINQExample\bin\Debug\LINQExample.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\LINQExample\obj\Debug\LINQExample.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\LINQExample\obj\Debug\LINQExample.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\LINQExample\obj\Debug\LINQExample.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\LINQExample\obj\Debug\LINQExample.pdb

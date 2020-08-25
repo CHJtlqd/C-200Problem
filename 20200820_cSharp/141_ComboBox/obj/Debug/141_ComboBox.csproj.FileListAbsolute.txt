@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\bin\Debug\141_ComboBox.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\bin\Debug\141_ComboBox.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\bin\Debug\141_ComboBox.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\obj\Debug\141_ComboBox.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\obj\Debug\_141_ComboBox.Form1.resources
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\obj\Debug\_141_ComboBox.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\obj\Debug\141_ComboBox.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\obj\Debug\141_ComboBox.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\obj\Debug\141_ComboBox.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\141_ComboBox\obj\Debug\141_ComboBox.pdb

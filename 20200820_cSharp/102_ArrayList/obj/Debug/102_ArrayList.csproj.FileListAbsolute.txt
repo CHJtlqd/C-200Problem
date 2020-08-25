@@ -1,0 +1,6 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\102_ArrayList\bin\Debug\102_ArrayList.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\102_ArrayList\bin\Debug\102_ArrayList.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\102_ArrayList\bin\Debug\102_ArrayList.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\102_ArrayList\obj\Debug\102_ArrayList.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\102_ArrayList\obj\Debug\102_ArrayList.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\102_ArrayList\obj\Debug\102_ArrayList.pdb

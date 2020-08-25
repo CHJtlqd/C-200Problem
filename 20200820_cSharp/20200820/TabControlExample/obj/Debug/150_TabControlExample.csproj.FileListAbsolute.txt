@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\TabControlExample\bin\Debug\TabControlExample.exe.config
+C:\SRC\c#200\C-200Problem\TabControlExample\bin\Debug\TabControlExample.exe
+C:\SRC\c#200\C-200Problem\TabControlExample\bin\Debug\TabControlExample.pdb
+C:\SRC\c#200\C-200Problem\TabControlExample\obj\Debug\150_TabControlExample.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\TabControlExample\obj\Debug\TabControlExample.Form1.resources
+C:\SRC\c#200\C-200Problem\TabControlExample\obj\Debug\TabControlExample.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\TabControlExample\obj\Debug\150_TabControlExample.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\TabControlExample\obj\Debug\150_TabControlExample.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\TabControlExample\obj\Debug\TabControlExample.exe
+C:\SRC\c#200\C-200Problem\TabControlExample\obj\Debug\TabControlExample.pdb

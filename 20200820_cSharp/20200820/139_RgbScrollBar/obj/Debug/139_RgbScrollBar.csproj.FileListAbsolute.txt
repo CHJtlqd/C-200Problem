@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\bin\Debug\139_RgbScrollBar.exe.config
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\bin\Debug\139_RgbScrollBar.exe
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\bin\Debug\139_RgbScrollBar.pdb
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\obj\Debug\139_RgbScrollBar.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\obj\Debug\_139_RgbScrollBar.Form1.resources
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\obj\Debug\_139_RgbScrollBar.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\obj\Debug\139_RgbScrollBar.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\obj\Debug\139_RgbScrollBar.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\obj\Debug\139_RgbScrollBar.exe
+C:\SRC\c#200\C-200Problem\139_RgbScrollBar\obj\Debug\139_RgbScrollBar.pdb

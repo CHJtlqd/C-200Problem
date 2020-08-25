@@ -1,0 +1,7 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\61_RandomClass\bin\Debug\61_RandomClass.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\61_RandomClass\bin\Debug\61_RandomClass.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\61_RandomClass\bin\Debug\61_RandomClass.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\61_RandomClass\obj\Debug\61_RandomClass.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\61_RandomClass\obj\Debug\61_RandomClass.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\61_RandomClass\obj\Debug\61_RandomClass.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\61_RandomClass\obj\Debug\61_RandomClass.pdb

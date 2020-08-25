@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\SRC\c#200\C-200Problem\20200825\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

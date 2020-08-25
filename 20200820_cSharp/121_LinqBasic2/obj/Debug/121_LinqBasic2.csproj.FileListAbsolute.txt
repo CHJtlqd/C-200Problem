@@ -1,0 +1,6 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\121_LinqBasic2\bin\Debug\121_LinqBasic2.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\121_LinqBasic2\bin\Debug\121_LinqBasic2.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\121_LinqBasic2\bin\Debug\121_LinqBasic2.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\121_LinqBasic2\obj\Debug\121_LinqBasic2.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\121_LinqBasic2\obj\Debug\121_LinqBasic2.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\121_LinqBasic2\obj\Debug\121_LinqBasic2.pdb

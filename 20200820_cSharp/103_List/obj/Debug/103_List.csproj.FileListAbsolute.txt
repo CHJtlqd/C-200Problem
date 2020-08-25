@@ -1,0 +1,7 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\103_List\bin\Debug\103_List.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\103_List\bin\Debug\103_List.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\103_List\bin\Debug\103_List.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\103_List\obj\Debug\103_List.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\103_List\obj\Debug\103_List.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\103_List\obj\Debug\103_List.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\103_List\obj\Debug\103_List.pdb

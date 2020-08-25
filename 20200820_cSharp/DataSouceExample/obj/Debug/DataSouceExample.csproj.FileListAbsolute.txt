@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\bin\Debug\DataSouceExample.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\bin\Debug\DataSouceExample.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\bin\Debug\DataSouceExample.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\obj\Debug\DataSouceExample.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\obj\Debug\DataSouceExample.Form1.resources
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\obj\Debug\DataSouceExample.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\obj\Debug\DataSouceExample.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\obj\Debug\DataSouceExample.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\obj\Debug\DataSouceExample.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\DataSouceExample\obj\Debug\DataSouceExample.pdb

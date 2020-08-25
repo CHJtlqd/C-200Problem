@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\147_Timer\bin\Debug\147_Timer.exe.config
+C:\SRC\c#200\C-200Problem\147_Timer\bin\Debug\147_Timer.exe
+C:\SRC\c#200\C-200Problem\147_Timer\bin\Debug\147_Timer.pdb
+C:\SRC\c#200\C-200Problem\147_Timer\obj\Debug\_147_Timer.Form1.resources
+C:\SRC\c#200\C-200Problem\147_Timer\obj\Debug\_147_Timer.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\147_Timer\obj\Debug\147_Timer.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\147_Timer\obj\Debug\147_Timer.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\147_Timer\obj\Debug\147_Timer.exe
+C:\SRC\c#200\C-200Problem\147_Timer\obj\Debug\147_Timer.pdb
+C:\SRC\c#200\C-200Problem\147_Timer\obj\Debug\147_Timer.csprojAssemblyReference.cache

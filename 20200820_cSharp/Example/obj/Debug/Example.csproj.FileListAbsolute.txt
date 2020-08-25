@@ -1,0 +1,7 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\Example\bin\Debug\Example.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\Example\bin\Debug\Example.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\Example\bin\Debug\Example.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\Example\obj\Debug\Example.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\Example\obj\Debug\Example.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\Example\obj\Debug\Example.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\bin\Debug\숫자야구.exe.config
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\bin\Debug\숫자야구.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\bin\Debug\숫자야구.pdb
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\obj\Debug\숫자야구.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\obj\Debug\숫자야구.Form1.resources
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\obj\Debug\숫자야구.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\obj\Debug\숫자야구.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\obj\Debug\숫자야구.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\obj\Debug\숫자야구.exe
+C:\SRC\c#200\C-200Problem\20200820_cSharp\숫자야구\obj\Debug\숫자야구.pdb

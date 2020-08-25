@@ -1,0 +1,10 @@
+C:\SRC\c#200\C-200Problem\20200820\bin\Debug\20200820.exe.config
+C:\SRC\c#200\C-200Problem\20200820\bin\Debug\20200820.exe
+C:\SRC\c#200\C-200Problem\20200820\bin\Debug\20200820.pdb
+C:\SRC\c#200\C-200Problem\20200820\obj\Debug\138_MaskedTextBox.csprojAssemblyReference.cache
+C:\SRC\c#200\C-200Problem\20200820\obj\Debug\_20200820.Form1.resources
+C:\SRC\c#200\C-200Problem\20200820\obj\Debug\_20200820.Properties.Resources.resources
+C:\SRC\c#200\C-200Problem\20200820\obj\Debug\138_MaskedTextBox.csproj.GenerateResource.cache
+C:\SRC\c#200\C-200Problem\20200820\obj\Debug\138_MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\SRC\c#200\C-200Problem\20200820\obj\Debug\20200820.exe
+C:\SRC\c#200\C-200Problem\20200820\obj\Debug\20200820.pdb
